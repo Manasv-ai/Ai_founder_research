@@ -72,19 +72,6 @@ Structured Output
 
 ---
 
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/ai-founder-research-agent.git  
-cd ai-founder-research-agent
-
-Install dependencies:
-
-pip install -r requirements.txt
-
----
-
 ## Environment Setup
 
 Create a `.env` file in the root folder:
